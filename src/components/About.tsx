@@ -8,7 +8,7 @@ export function About() {
         <div className="text-center mb-16">
           <h2 className="mb-4">About Me</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            My dream is work at the forefront of aerospace systems to promote a more seamless traveling experience.
+            My dream is work at the forefront of aerospace systems to promote a more seamless traveling experience with hypersonic flight.
           </p>
         </div>
         
@@ -50,7 +50,7 @@ export function About() {
               <p className="text-sm text-muted-foreground">
                 Solidworks Certified<br />
                 Designed a bi-liquid Rocket<br />
-                Climbed Mt. Fuji
+                Competed in a Bouldering Tournament
               </p>
             </CardContent>
           </Card>
@@ -58,7 +58,7 @@ export function About() {
         
         <div className="prose prose-neutral max-w-none">
           <p className="text-center text-muted-foreground leading-relaxed">
-            I specialize in m
+           
           </p>
         </div>
       </div>

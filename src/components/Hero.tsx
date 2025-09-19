@@ -14,7 +14,7 @@ export function Hero() {
             Mechanical Engineer
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            I turn ideas into tangible projects through iterative design, Finite Element Analysis, and Fabrication.
+            I turn ideas into tangible projects through iterative design, Finite Element Analysis, and Rapid Prototyping.
           </p>
         </div>
 
@@ -38,7 +38,7 @@ export function Hero() {
 
         <div className="flex justify-center space-x-6">
           <a 
-            href="https://github.com" 
+            href="https://github.com/Prostyle612" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors"
@@ -46,7 +46,7 @@ export function Hero() {
             <Github size={24} />
           </a>
           <a 
-            href="https://linkedin.com" 
+            href="https://www.linkedin.com/in/david-sgonzalez/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground transition-colors"
@@ -54,7 +54,7 @@ export function Hero() {
             <Linkedin size={24} />
           </a>
           <a 
-            href="mailto:alex@example.com"
+            href="mailto:davidsg2@uci.edu"
             className="text-muted-foreground hover:text-foreground transition-colors"
           >
             <Mail size={24} />
