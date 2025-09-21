@@ -14,9 +14,9 @@
   --text-2xl: 1.5rem;
   
   /* Color variables */
-  --background: #bfc1c4;
+  --background: #d8d7d4; /* #8797b0 #aea99d #d8d7d4*/
   --foreground: #1a1a1a;
-  --card: #ffffff;
+  --card: #ffffff; /* #ffffff*/
   --card-foreground: #1a1a1a;
   --popover: #ffffff;
   --popover-foreground: #1a1a1a;
@@ -25,7 +25,7 @@
   --secondary: #f3f3f5;
   --secondary-foreground: #030213;
   --muted: #ececf0;
-  --muted-foreground: #717182;
+  --muted-foreground: #111115;
   --accent: #e9ebef;
   --accent-foreground: #030213;
   --destructive: #d4183d;
@@ -57,7 +57,7 @@
   --secondary: #2a2a2a;
   --secondary-foreground: #ffffff;
   --muted: #2a2a2a;
-  --muted-foreground: #a1a1aa;
+  --muted-foreground: #08080b;
   --accent: #2a2a2a;
   --accent-foreground: #ffffff;
   --destructive: #dc2626;

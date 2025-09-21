@@ -7,11 +7,11 @@ const skillCategories = [
     skills: ["Solidworks", "AutoCAD", "Siemens NX", "Onshape","ANSYS Mechanical", "Solidworks FEA" ]
   },
   {
-    title: "Prgramming and EE",
-    skills: ["Python", "Matlab", "Overleaf", "Git", "KiCAD", "Altium"]
+    title: "CS/EE",
+    skills: ["Python", "Matlab", "Linux Mint", "Typescript", "Overleaf", "Git", "KiCAD", "Altium"]
   },
   {
-    title: "Fabrication ",
+    title: "Fabrication",
     skills: ["GD&T", "Mills", "Lathes", "CNC (3,5 axis)", "3D Printing", "Laser Cutting", "Soldering"]
   },
 

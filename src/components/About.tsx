@@ -8,7 +8,7 @@ export function About() {
         <div className="text-center mb-16">
           <h2 className="mb-4">About Me</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            My dream is work at the forefront of aerospace systems to promote a more seamless traveling experience with hypersonic flight.
+            My dream is to work at the forefront of aerospace systems developement.
           </p>
         </div>
         
@@ -21,8 +21,9 @@ export function About() {
               <h3 className="mb-2">Education</h3>
               <p className="text-sm text-muted-foreground">
                 BS Mechanical Engineering<br />
-                UC Berkeley<br />
-                2024
+                UC Berkeley 2024<br />
+                MS Mechanical Engineering<br />
+                UC Irvine 2027
               </p>
             </CardContent>
           </Card>
@@ -35,7 +36,9 @@ export function About() {
               <h3 className="mb-2">Experience</h3>
               <p className="text-sm text-muted-foreground">
                 4+ Years<br />
-                Mechanism and Systems Design<br />
+                Component Design <br />
+                FEA Analysis <br />
+                Product Development
                 
               </p>
             </CardContent>
@@ -50,7 +53,7 @@ export function About() {
               <p className="text-sm text-muted-foreground">
                 Solidworks Certified<br />
                 Designed a bi-liquid Rocket<br />
-                Competed in a Bouldering Tournament
+                Climbed Mt.Tamalpais
               </p>
             </CardContent>
           </Card>
