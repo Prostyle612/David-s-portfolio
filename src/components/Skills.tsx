@@ -3,29 +3,18 @@ import { Card, CardContent, CardHeader, CardTitle } from './ui/card';
 
 const skillCategories = [
   {
-    title: "Frontend",
-    skills: ["React", "Vue.js", "TypeScript", "JavaScript", "HTML/CSS", "Tailwind CSS", "Next.js", "Svelte"]
+    title: "Design Tools",
+    skills: ["Solidworks", "AutoCAD", "Siemens NX", "Onshape","ANSYS Mechanical", "Solidworks FEA" ]
   },
   {
-    title: "Backend",
-    skills: ["Node.js", "Python", "Java", "Express.js", "Flask", "Django", "GraphQL", "REST APIs"]
+    title: "CS/EE",
+    skills: ["Python", "Matlab", "Linux Mint", "Typescript", "Overleaf", "Git", "KiCAD", "Altium"]
   },
   {
-    title: "Database",
-    skills: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Firebase", "Supabase", "Prisma", "SQL"]
+    title: "Fabrication",
+    skills: ["GD&T", "Mills", "Lathes", "CNC (3,5 axis)", "3D Printing", "Laser Cutting", "Soldering"]
   },
-  {
-    title: "Tools & DevOps",
-    skills: ["Git", "Docker", "AWS", "Vercel", "GitHub Actions", "Jest", "Cypress", "Webpack"]
-  },
-  {
-    title: "Mobile",
-    skills: ["React Native", "Flutter", "iOS Development", "Android Development", "PWA"]
-  },
-  {
-    title: "Data & Analytics",
-    skills: ["Python", "Pandas", "D3.js", "Chart.js", "Machine Learning", "Data Visualization"]
-  }
+
 ];
 
 export function Skills() {
@@ -35,8 +24,8 @@ export function Skills() {
         <div className="text-center mb-16">
           <h2 className="mb-4">Technical Skills</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            A comprehensive overview of the technologies and tools I work with 
-            to build modern, scalable applications.
+            A comprehensive overview of the tools I work with 
+            to build the technology of tomorrow.
           </p>
         </div>
         

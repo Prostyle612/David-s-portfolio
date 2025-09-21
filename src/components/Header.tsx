@@ -13,7 +13,7 @@ export function Header() {
   return (
     <header className="fixed top-0 w-full bg-background/80 backdrop-blur-sm border-b border-border z-50">
       <div className="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
-        <div className="text-xl font-medium">David Gonzalez</div>
+        <div className="text-xl font-medium">David's Portfolio</div>
         
         {/* Desktop Navigation */}
         <nav className="hidden md:flex space-x-8">
